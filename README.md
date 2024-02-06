@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SanielDexxer
-- 👀 I’m interested in Dexxing Saniel
-- 🌱 I’m currently learning how to be a smith
-- 💞️ I’m looking to collaborate on the Hubschmid AG
-- 📫 How to reach me: n8.higgers27@gmail.com
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning JS React
+- 📫 How to reach me: devin.de.spindler@gmail.com
 
 <!---
 SanielDexxer/SanielDexxer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
