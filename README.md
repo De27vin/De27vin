@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SanielDexxer
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development & Linux
 - 🌱 I’m currently learning JS React
 - 📫 How to reach me: devin.de.spindler@gmail.com
 
