@@ -32,6 +32,9 @@ I'm @SanielDexxer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/express/express-original.svg" alt="ExpressJS" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/eslint/eslint-original.svg" alt="ESLint" width="40" height="40">
+
 </p>
 
 ### Operating Systems:
@@ -53,6 +56,7 @@ I'm @SanielDexxer
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" alt="Postman" width="40" height="40">
 </p>
 
 ### Others:
