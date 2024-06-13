@@ -4,7 +4,7 @@ I'm @SanielDexxer
 
 ## About Me
 - 👀 I’m interested in Web Development & Linux
-- 🌱 I’m currently learning JS React
+- 🌱 I’m currently learning React and Node.js
 - 📫 How to reach me: [devin.de.spindler@gmail.com](mailto:devin.de.spindler@gmail.com)
 
 ## Skills
