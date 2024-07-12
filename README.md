@@ -48,6 +48,7 @@ I'm @SanielDexxer
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/>
+  ![kate-icon](https://github.com/user-attachments/assets/a5096cb1-355e-4a18-9b58-98f0a3bf72ce)
 </p>
 
 ### Tools:
