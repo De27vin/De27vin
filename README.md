@@ -1,10 +1,10 @@
 # Hi there 👋
 
-I'm @SanielDexxer
+I'm @De27vin
 
 ## About Me
 - 👀 I’m interested in Web Development & Linux
-- 🌱 I’m currently learning React and Node.js
+- 🌱 I’m currently learning React, Node.js and Ruby
 - 📫 How to reach me: [devin.de.spindler@gmail.com](mailto:devin.de.spindler@gmail.com)
 
 ## Skills
@@ -13,6 +13,7 @@ I'm @SanielDexxer
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/>
 </p>
 
 ### Frontend Web Development:
@@ -64,9 +65,8 @@ I'm @SanielDexxer
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell Scripting" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/>
 </p>
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=SanielDexxer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false&order=1" alt="GitHub Stats" width="1000" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SanielDexxer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" alt="Top Languages" width="1000" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=De27vin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false&order=1" alt="GitHub Stats" width="1000" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=De27vin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" alt="Top Languages" width="1000" height="200"/>
