@@ -14,6 +14,7 @@ I'm @De27vin
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
 ### Frontend Web Development:
