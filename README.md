@@ -27,6 +27,7 @@ I'm @De27vin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/angular/angular-original.svg" alt="AngularJS" width=*40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vuejs/vuejs-original.svg" alt="AngularJS" width=*40" height="40"/>
 </p>
 
 ### Backend Web Development:
@@ -37,6 +38,7 @@ I'm @De27vin
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/express/express-original.svg" alt="ExpressJS" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/eslint/eslint-original.svg" alt="ESLint" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" alt="PHP" width="40" height="40">
 </p>
 
 ### Operating Systems:
