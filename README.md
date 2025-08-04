@@ -5,7 +5,7 @@ I'm @De27vin
 ## About Me
 - 👀 I’m interested in Web Development & Linux
 - 🌱 I’m currently learning React, Node.js and Ruby
-- 📫 How to reach me: [devin.de.spindler@gmail.com](mailto:devin.de.spindler@gmail.com)
+- 📫 How to reach me: [devin.mugglin@gmail.com](mailto:devin.mugglin@gmail.com)
 
 ## Skills
 
