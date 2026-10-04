@@ -76,7 +76,8 @@ I'm @De27vin
     <img
       src="https://github-readme-stats.vercel.app/api?username=De27vin&show_icons=true&include_all_commits=true&theme=dracula&locale=en"
       alt="Devin Mugglin's GitHub statistics"
-      width="100%"
+      width="1000"
+      height="200"
     />
   </a>
 </p>
@@ -86,7 +87,8 @@ I'm @De27vin
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=De27vin&layout=compact&langs_count=20&size_weight=0.5&count_weight=0.5&theme=dracula&locale=en"
       alt="Most used languages across Devin Mugglin's public repositories"
-      width="100%"
+      width="1000"
+      height="200"
     />
   </a>
 </p>
