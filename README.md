@@ -71,6 +71,22 @@ I'm @De27vin
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" alt="Postman" width="40"/>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=De27vin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&theme=dracula&locale=en&hide_border=false&order=1" alt="GitHub Stats" width="1000" height="200"/>
+<p align="center">
+  <a href="https://github.com/De27vin">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=De27vin&show_icons=true&include_all_commits=true&theme=dracula&locale=en"
+      alt="Devin Mugglin's GitHub statistics"
+      width="100%"
+    />
+  </a>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=De27vin&locale=en&hide_title=false&layout=compact&card_width=575&langs_count=20&theme=dracula&hide_border=false&order=2" alt="Top Languages" width="1000" height="200"/>
+<p align="center">
+  <a href="https://github.com/De27vin?tab=repositories">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=De27vin&layout=compact&langs_count=20&size_weight=0.5&count_weight=0.5&theme=dracula&locale=en"
+      alt="Most used languages across Devin Mugglin's public repositories"
+      width="100%"
+    />
+  </a>
+</p>
